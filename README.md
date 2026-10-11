@@ -12,7 +12,4 @@ This program takes two numbers as input and determines which number is larger. I
 - Relational operators (`>`, `<`)
 
 
-## Purpose
-Created for practicing C++ Programming 
-
 
